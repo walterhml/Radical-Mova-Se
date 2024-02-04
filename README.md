@@ -1,6 +1,6 @@
 # Radical Mova-Se
 
-Bem-vindo ao site Aventuras na Natureza, um recurso online para aqueles que amam a natureza e desejam explorar de forma segura e emocionante. Nosso site oferece uma variedade de pacotes de trilhas em ambientes naturais, bem como acessórios essenciais para sua próxima aventura.
+Bem-vindo ao site Mova-Se, um recurso online para aqueles que amam a natureza e desejam explorar de forma segura e emocionante. Nosso site oferece uma variedade de pacotes de trilhas em ambientes naturais, bem como acessórios essenciais para sua próxima aventura.
 
 Funcional
 Página inicial: A página inicial apresenta nossos pacotes de trilhas e acessórios mais populares, além de nossa missão e valores <br>
@@ -26,4 +26,4 @@ licença<br>
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para mais detalhes.<br>
 
 Cont.<br>
-Se você tiver alguma dúvida ou feedback, entre em contato conosco por meio do formulário de contato no site ou envie um email para contato@aventurasnatureza.com.br .
+Se você tiver alguma dúvida ou feedback, entre em contato conosco por meio do formulário de contato no site ou envie um email para walthersouza144@gmail.com .
